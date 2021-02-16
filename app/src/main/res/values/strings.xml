@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="save_data">SAVE DATA</string>
+    <string name="student_name">Student Name</string>
+    <string name="father_name">Father Name</string>
+    <string name="city_name">City Name</string>
+</resources>
